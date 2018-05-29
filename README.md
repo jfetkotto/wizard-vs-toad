@@ -16,4 +16,4 @@ god knows what state it's in.
 - Enjoy.
 
 ## Requirements
-Requires version 0.7.2 of Löve2D.
+Requires [version 0.7.2] (https://bitbucket.org/rude/love/downloads/) of Löve2D.
